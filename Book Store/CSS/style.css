@@ -1,0 +1,105 @@
+.navbar {
+    overflow: hidden;
+    background-color: brown;
+    border-radius: 10px;
+}
+.title{
+    font-size: 20px;
+}
+.store-logo-container {
+    display: block;
+    text-align: center;
+
+}
+.store-logo {
+    width: 110px;
+
+}
+.sections {
+    text-decoration: none;
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    font-size: 17px;
+    margin: 10px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.search{
+    width: 20px;
+    margin: 5px;
+
+}
+.sections:hover {
+    background-color: #04aa6d;
+    color: black;
+}
+
+.header {
+    display: flex;
+    justify-content: space-around;
+}
+
+.bookshop {
+    width: 600px;
+    border: 2px solid black;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px 3px grey;
+}
+
+.logo {
+    width: 50px;
+}
+
+.social-handles {
+    display: flex;
+    justify-content: center;
+}
+
+.socials {
+    width: 38px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+.footer {
+    display: flex;
+    justify-content: space-around;
+}
+.designer{
+    text-align: center;
+    font: caption;
+}
+.links{
+    text-decoration: none;
+    color: black;
+}
+.contact{
+    cursor: pointer;
+}
+
+.subs{
+    width: 250px;
+    padding: 5px;
+    border-radius: 5px;
+    border: 2px solid grey;
+}
+.btn-container{
+    margin-left: 85px;
+}
+.btn{
+    border: 2px solid black;
+    background: none;
+    cursor: pointer;
+    background-color: rgb(190, 42, 5);
+    width: 90px;
+    padding: 5px;
+    color: white;
+    font-size: 15px;
+    border-radius: 5px;
+   
+}
+.margin{
+    margin-left: 10px;
+}
